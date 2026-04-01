@@ -1,4 +1,4 @@
-### ¡Hola! Soy Axel 👋
+### ¡Hola! Soy Axel 
 
 Soy Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones web y móviles. Me apasiona crear interfaces modernas, dinámicas y adaptables, combinando un buen diseño con un backend sólido para lograr plataformas que sean tanto funcionales como visualmente atractivas.
 
